@@ -1,0 +1,5 @@
+numpy
+pandas
+pickel
+nltk
+streamlit
