@@ -1,5 +1,5 @@
 numpy
 pandas
-pickel
+pickle
 nltk
 streamlit
