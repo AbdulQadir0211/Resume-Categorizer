@@ -24,7 +24,7 @@ def cleanResume(text):
   return text
 
 def main():
-    st.title("Resume Screening App")
+    st.title("Resume Category Classifier")
     uploaded_file=st.file_uploader('Upload Resume',type=['txt','pdf'])
     if uploaded_file is not None:
         try:
